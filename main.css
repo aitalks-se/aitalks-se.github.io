@@ -3,6 +3,7 @@ body {
   margin: 0px;
   color: #111;
   line-height: 1.5em;
+  background-color: #F9FBF2;
 }
 
 h1 {
@@ -67,12 +68,12 @@ div {
 }
 
 .content-organizers {
-  background-color: #ccc;
+  min-height: 300px;
+  background-color: #F9FBF2;
 }
 
 .container {
   font-size: 12pt;
-  background-color: #eee;
 }
 
 .organizer-list, .speaker-list {

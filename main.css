@@ -1,0 +1,120 @@
+body {
+  font-family: 'Open Sans', sans-serif;
+  margin: 0px;
+  color: #111;
+  line-height: 1.5em;
+}
+
+h1 {
+
+}
+
+h2 {
+  /*font-family: serif;
+  text-transform: uppercase;*/
+}
+
+a, a:visited {
+  text-decoration: none;
+  color: #264C92;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+div {
+  padding: 0px;
+  margin: 0px;
+}
+
+.content-upcoming, .content-previous, .content-organizers {
+  padding-left: 5%;
+  padding-right: 5%;
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+
+.content-upcoming h2, .content-previous h2, .content-organizers h2 {
+  /*text-decoration: underline;*/
+}
+
+.content-header {
+  min-height: 100px;
+  padding-left: 5%;
+  padding-right: 5%;
+  padding-top: 50px;
+  padding-bottom: 3em;
+  background-color: #F9FBF2;
+}
+
+.content-header h1 {
+  font-size: 2.5em;
+  margin-bottom: 1.0em;
+}
+
+.content-upcoming {
+  background-color: #C3DCBC;
+}
+
+.content-previous {
+  background-color: #152A51;
+  color: #eee;
+}
+
+.content-previous a {
+  color: #F9FBF2;
+}
+
+.content-organizers {
+  background-color: #ccc;
+}
+
+.container {
+  font-size: 12pt;
+  background-color: #eee;
+}
+
+.organizer-list, .speaker-list {
+  margin-left: 0px;
+  padding-left: 0px;
+}
+
+.speaker-list li {
+  list-style-type: none;
+  margin-bottom: 2.5em;
+}
+
+.organizer-list li {
+  list-style-type: none;
+  margin-bottom: 1.5em;
+}
+
+.speaker-list {
+  margin-top: 3em;
+  margin-bottom: 3em;
+}
+
+.speaker-list li {
+  display: flex;
+  flex-direction: row;
+}
+
+.person-list-image {
+  width: 180px;
+  min-height: 220px;
+}
+
+.person-list-image img {
+  width: 180px;
+  border-radius: 5px;
+}
+
+.person-list-description {
+  vertical-align: top;
+  padding-left: 20px;
+}
+
+.person-list-description h3, .person-list-description h2 {
+  margin-top: 2px;
+}

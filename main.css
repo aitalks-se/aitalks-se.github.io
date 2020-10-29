@@ -1,5 +1,5 @@
 body {
-  font-family: 'Open Sans', sans-serif;
+  font-family: 'Lato','Open Sans', sans-serif;
   margin: 0px;
   color: #111;
   line-height: 1.5em;
@@ -7,12 +7,18 @@ body {
 }
 
 h1 {
-
+  text-decoration: none;
+  color: #163C82;
 }
 
 h2 {
   /*font-family: serif;
   text-transform: uppercase;*/
+}
+
+h4 {
+  font-style: italic;
+  font-weight: normal;
 }
 
 a, a:visited {
@@ -55,7 +61,7 @@ div {
 }
 
 .content-upcoming {
-  background-color: #C3DCBC;
+  background-color: #C3DEBC;
 }
 
 .content-previous {

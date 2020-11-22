@@ -59,24 +59,30 @@ div {
   font-size: 3em;
   margin-bottom: 1.0em;
   text-align: center;
+  max-width: 800px;
 }
 
-.content-upcoming {
+.container-upcoming {
   background-color: #C3DCBC;
 }
 
-.content-previous {
+.container-previous {
   background-color: #152A51;
   color: #eee;
 }
 
-.content-previous a {
+.container-previous a {
   color: #F9FBF2;
 }
 
-.content-organizers {
+.container-organizers {
   min-height: 300px;
   background-color: #F9FBF2;
+}
+
+.content-header, .content-previous, .content-upcoming, .content-organizers {
+  max-width: 800px;
+  margin: 0px auto;
 }
 
 .container {

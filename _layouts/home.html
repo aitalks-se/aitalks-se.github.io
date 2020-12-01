@@ -44,13 +44,16 @@ layout: default
               <div class="person-list-description">
                   <h2>
                     <a class="post-link" href="{{ post.url | relative_url }}">
-                      {{ post.title | escape }}
+                      {{ post.speaker | escape }}
                     </a>
                   </h2>
                   {% if post.datenotset %}
                   {%- assign date_format = site.minima.date_format | default: "%Y" -%}
                   {% endif %}
                   <h3>{{ post.date | date: date_format }}</h3>
+                  {% if post.title %}
+                    <h3><b>Title:</b> {{ post.title | escape }}</h3>
+                  {% endif %}
                   {% if post.blurb %}
                     {{ post.blurb }}
                   {% endif %}
@@ -82,13 +85,16 @@ layout: default
               <div class="person-list-description">
                   <h2>
                     <a class="post-link" href="{{ post.url | relative_url }}">
-                      {{ post.title | escape }}
+                      {{ post.speaker | escape }}
                     </a>
                   </h2>
                   {% if post.datenotset %}
                   {%- assign date_format = site.minima.date_format | default: "%Y" -%}
                   {% endif %}
                   <h3>{{ post.date | date: date_format }}</h3>
+                  {% if post.title %}
+                    <h3><b>Title:</b> {{ post.title | escape }}</h3>
+                  {% endif %}
                   {% if post.blurb %}
                     {{ post.blurb }}
                   {% endif %}

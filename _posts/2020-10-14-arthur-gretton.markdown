@@ -1,6 +1,7 @@
 ---
 layout: post
-title:  "Arthur Gretton"
+speaker:  "Arthur Gretton"
+title: "Critics for generative adversarial networks: results and conjectures"
 date:   2020-10-14 13:00:00 +0100
 categories: aitalks
 image: assets/speakers/gretton.jpg

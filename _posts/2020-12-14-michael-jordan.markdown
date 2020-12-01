@@ -1,6 +1,7 @@
 ---
 layout: post
-title:  "Michael I. Jordan"
+speaker:  "Michael I. Jordan"
+title: "The Decision-Making Side of Machine Learning: Computational, Inferential and Economic Perspectives"
 date:   2020-12-17 16:00:00 +0100
 categories: aitalks
 zoom: https://ui.ungpd.com/Surveys/8f56180a-eab9-4330-9045-0ce70774e852

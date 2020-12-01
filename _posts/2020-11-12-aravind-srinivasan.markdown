@@ -1,6 +1,7 @@
 ---
 layout: post
-title:  "Aravind Srinivasan"
+speaker: "Aravind Srinivasan"
+title:  "Fairness in AI and in Algorithms"
 date:   2020-11-12 15:00:00 +0100
 categories: aitalks
 image: assets/speakers/srinivasan.jpg
@@ -11,7 +12,7 @@ blurb: >-
 ## Fairness in AI and in Algorithms
 
 ### Abstract
-With the increasing role played by AI and algorithms in our lives, it is well-recognized now that fairness should be a key aspect of such AI systems, to avoid automated decision-making that may (inadvertently) be biased. After surveying some of the approaches considered in this general area, we will discuss some of our work on fairness -- particularly in unsupervised learning. 
+With the increasing role played by AI and algorithms in our lives, it is well-recognized now that fairness should be a key aspect of such AI systems, to avoid automated decision-making that may (inadvertently) be biased. After surveying some of the approaches considered in this general area, we will discuss some of our work on fairness -- particularly in unsupervised learning.
 
 ### About the speaker
 ![Aravind Srinivasan](/assets/speakers/srinivasan.jpg){:class="post-speaker-image"}

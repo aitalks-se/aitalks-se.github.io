@@ -28,6 +28,7 @@ url: "http://www.healthyai.se" # the base hostname & protocol for your site, e.g
 github_username:  healthy-ai
 organizers: [Fredrik Johansson, Devdatt Dubhashi, Fredrik Kahl, Umberto Picchini]
 future: true
+timezone: Europe/Amsterdam
 
 # Build settings
 #theme: minima

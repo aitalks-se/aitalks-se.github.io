@@ -55,7 +55,7 @@ layout: default
                     <h3><b>Title:</b> {{ post.talk | escape }}</h3>
                   {% endif %}
                   {% if post.blurb %}
-                    {{ post.blurb }}
+                    <p>{{ post.blurb }}</p>
                   {% endif %}
                   {% if post.zoom %}
                     <a href="{{ post.zoom }}">Register here</a>

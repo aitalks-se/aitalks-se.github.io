@@ -307,14 +307,21 @@ Speaker list
 
 .person-list-image {
   width: 180px;
-  min-width: 180px;
+  max-width: 180px;
   min-height: 160px;
   display: inline-block;
 }
 
 .person-list-image img {
-  min-width: 180px;
+  width: 180px;
+  max-width: 180px;
   border-radius: 5px;
+}
+
+@media screen and (max-width: 480px) {
+  .person-list-image, .person-list-image img {
+    max-width: 100px;
+  }
 }
 
 .post-speaker-image {

@@ -52,7 +52,9 @@ layout: default
                   {% endif %}
                   <h3>{{ post.date | date: date_format }}</h3>
                   {% if post.talk %}
+                    {% unless post.talk == "TBD" %}
                     <h3><b>Title:</b> {{ post.talk | escape }}</h3>
+                    {% endunless %}
                   {% endif %}
                   {% if post.blurb %}
                     <p>{{ post.blurb }}</p>

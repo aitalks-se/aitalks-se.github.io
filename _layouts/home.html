@@ -57,6 +57,15 @@ layout: default
                   {% if post.blurb %}
                     {{ post.blurb }}
                   {% endif %}
+                  {% if post.zoom %}
+                    <a href="{{ post.zoom }}">Register here</a>
+                    {% if post.youtube %}
+                    | 
+                    {% endif %}
+                  {% endif %}
+                  {% if post.youtube %}
+                    <a href="{{ post.youtube }}">Watch here</a>
+                  {% endif %}
               </div>
             </li>
             <li>

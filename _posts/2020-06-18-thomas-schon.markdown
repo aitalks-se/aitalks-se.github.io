@@ -1,7 +1,7 @@
 ---
 layout: post
-speaker:  "Thomas Schön"
-title: "AI for researc​h and some new results on deep regression"
+title:  "Thomas Schön"
+talk: "AI for researc​h and some new results on deep regression"
 date:   2020-06-18 13:00:00 +0100
 categories: aitalks
 image: assets/speakers/schon.jpg

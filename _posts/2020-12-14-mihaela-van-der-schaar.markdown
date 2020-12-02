@@ -1,7 +1,7 @@
 ---
 layout: post
-speaker: "Mihaela van der Schaar"
-title: "TBD"
+title: "Mihaela van der Schaar"
+talk: "TBD"
 date:   2021-02-17 15:00:00 +0100
 datenotset: false
 categories: aitalks

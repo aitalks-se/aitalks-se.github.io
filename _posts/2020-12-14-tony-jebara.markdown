@@ -1,7 +1,7 @@
 ---
 layout: post
-speaker:  "Tony Jebara"
-title: "TBD"
+title:  "Tony Jebara"
+talk: "TBD"
 date:   2021-04-14 15:00:00 +0100
 datenotset: true
 categories: aitalks

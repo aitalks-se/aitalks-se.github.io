@@ -1,7 +1,7 @@
 ---
 layout: post
-speaker:  "Barbara Plank"
-title: "Learning across Adverse Conditions in Natural Language Processing"
+title:  "Barbara Plank"
+talk: "Learning across Adverse Conditions in Natural Language Processing"
 date:   2020-10-01 13:00:00 +0100
 categories: aitalks
 image: assets/speakers/plank.jpg

@@ -1,7 +1,7 @@
 ---
 layout: post
-speaker:  "Nicolo Cesa-Bianchi"
-title: "Cooperation in networks of learning agents"
+title:  "Nicolo Cesa-Bianchi"
+talk: "Cooperation in networks of learning agents"
 date:   2020-11-26 15:00:00 +0100
 categories: jekyll update
 image: assets/speakers/bianchi.png

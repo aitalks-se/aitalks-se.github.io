@@ -1,7 +1,7 @@
 ---
 layout: post
-speaker: "Aravind Srinivasan"
-title:  "Fairness in AI and in Algorithms"
+title: "Aravind Srinivasan"
+talk:  "Fairness in AI and in Algorithms"
 date:   2020-11-12 15:00:00 +0100
 categories: aitalks
 image: assets/speakers/srinivasan.jpg

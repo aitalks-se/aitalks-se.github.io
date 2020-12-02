@@ -1,7 +1,7 @@
 ---
 layout: post
-speaker: "Bill Dally"
-title:  "Domain-Specific Accelerators"
+title: "Bill Dally"
+talk:  "Domain-Specific Accelerators"
 date:   2020-11-20 15:00:00 +0100
 categories: aitalks
 image: assets/speakers/dally.jpg

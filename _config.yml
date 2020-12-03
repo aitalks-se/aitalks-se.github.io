@@ -29,6 +29,7 @@ github_username:  healthy-ai
 organizers: [Fredrik Johansson, Devdatt Dubhashi, Fredrik Kahl, Umberto Picchini]
 future: true
 timezone: Europe/Amsterdam
+google_analytics: G-FK03TVV8LR
 
 # Build settings
 #theme: minima

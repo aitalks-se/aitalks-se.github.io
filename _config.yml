@@ -23,9 +23,9 @@ email: fredrik.johansson@chalmers.se
 description: >- # this means to ignore newlines until "baseurl:"
   Inspirational talks on AI at Chalmers University of Technology
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://www.healthyai.se" # the base hostname & protocol for your site, e.g. http://example.com
+url: "http://www.aitalks.se" # the base hostname & protocol for your site, e.g. http://example.com
 #twitter_username: jekyllrb
-github_username:  healthy-ai
+github_username:  aitalks-se
 organizers: [Fredrik Johansson, Devdatt Dubhashi, Fredrik Kahl, Umberto Picchini]
 future: true
 timezone: Europe/Amsterdam

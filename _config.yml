@@ -26,7 +26,7 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://www.aitalks.se" # the base hostname & protocol for your site, e.g. http://example.com
 #twitter_username: jekyllrb
 github_username:  aitalks-se
-organizers: [Fredrik Johansson, Devdatt Dubhashi, Fredrik Kahl, Umberto Picchini]
+organizers: [Devdatt Dubhashi, Fredrik Johansson, Fredrik Kahl, Umberto Picchini]
 future: true
 timezone: Europe/Amsterdam
 google_analytics: G-FK03TVV8LR

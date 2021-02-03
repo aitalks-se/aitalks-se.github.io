@@ -3,7 +3,7 @@ layout: post
 title: "Mihaela van der Schaar"
 talk: "TBD"
 date:   2021-02-17 15:00:00 +0100
-datenotset: false
+datenotset: true
 categories: aitalks
 image: assets/speakers/vanderschaar.jpg
 blurb: >-

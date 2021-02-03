@@ -7,12 +7,13 @@ datenotset: false
 categories: aitalks
 image: assets/speakers/mengersen.jpg
 youtube: https://youtu.be/oc3x8tGKxMI
+recording: https://youtu.be/3hUptk9ZA9o
 zoom: https://ui.ungpd.com/Surveys/0649eac3-12ec-4d41-a640-d20a7d4e82f7
 blurb: >-
   Kerrie Mengersen is a Distinguished Professor in Statistics at the Queensland University of Technology in Brisbane, Australia. She is the Deputy Director of the Australian Research Council Centre of Excellence in Mathematical Frontiers and the Director of the QUT Centre for Data Science.
 ---
 
-## WE ARE CURRENTLY EXPERIENCING ISSUES WITH YOUTUBE STREAMING. PLEASE JOIN THE ZOOM LINK BY REGISTERING FOR THE MAILING LIST. 
+## WE ARE CURRENTLY EXPERIENCING ISSUES WITH YOUTUBE STREAMING. PLEASE JOIN THE ZOOM LINK BY REGISTERING FOR THE MAILING LIST.
 
 ## Calling all Citizen Scientists: using Bayesian Statistics to advance public input into scientific analysis
 

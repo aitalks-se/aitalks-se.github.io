@@ -107,7 +107,10 @@ layout: default
                     <h3><b>Title:</b> {{ post.talk | escape }}</h3>
                   {% endif %}
                   {% if post.blurb %}
-                    {{ post.blurb }}
+                    <p>{{ post.blurb }}</p>
+                  {% endif %}
+                  {% if post.recording %}
+                    <a href="{{ post.recording }}">&#xBB; <u>Watch recording here</u></a>
                   {% endif %}
               </div>
             </li>

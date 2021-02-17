@@ -7,6 +7,7 @@ datenotset: false
 categories: aitalks
 image: assets/speakers/vanderschaar.jpg
 zoom: https://ui.ungpd.com/Surveys/0649eac3-12ec-4d41-a640-d20a7d4e82f7
+recording: https://www.youtube.com/watch?v=LmwCLxAWcAA&
 #youtube: https://youtu.be/74gUbo2Keww
 blurb: >-
   Mihaela van der Schaar is John Humphrey Plummer Professor of Machine Learning, Artificial Intelligence and Medicine at the University of Cambridge and a Turing Fellow at The Alan Turing Institute in London. ​

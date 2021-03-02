@@ -5,7 +5,7 @@ talk: "Vaccine prioritization: The role of AI and computing in pandemic planning
 date:   2021-03-11 15:00:00 +0100
 datenotset: false
 categories: aitalks
-image: assets/speakers/madhav.jpg
+image: assets/speakers/madhav.jpeg
 zoom: https://ui.ungpd.com/Surveys/0649eac3-12ec-4d41-a640-d20a7d4e82f7
 blurb: >-
   Madhav Marathe is a Distinguished Professor in Biocomplexity, the division director of the Network Systems Science and Advanced Computing Division at the Biocomplexity Institute and Initiative, and a Professor in the Department of Computer Science at the University of Virginia (UVA).
@@ -21,7 +21,7 @@ Computation, computational platforms, computational thinking and lens can play a
 In this talk, using COVID-19 as an exemplar, I will describe how scalable computing, AI and  data science can play an important role in advancing real-time epidemic science. Our recent results on vaccine prioritization strategies to contain the pandemic will be used to illustrate some of these ideas.
 
 ### About the speaker
-![Madhav Marathe](/assets/speakers/madhav.jpg){:class="post-speaker-image"}Madhav Marathe is a Distinguished Professor in Biocomplexity, the division director of the Network Systems Science and Advanced Computing Division at the Biocomplexity Institute and Initiative, and a Professor in the Department of Computer Science at the University of Virginia (UVA).
+![Madhav Marathe](/assets/speakers/madhav.jpeg){:class="post-speaker-image"}Madhav Marathe is a Distinguished Professor in Biocomplexity, the division director of the Network Systems Science and Advanced Computing Division at the Biocomplexity Institute and Initiative, and a Professor in the Department of Computer Science at the University of Virginia (UVA).
 
 His research interests are in network science, computational epidemiology, AI, foundations of computing and high performance computing. Over the last 20 years, his division has supported federal and state authorities in their effort to combat epidemics in real-time, including the H1N1 pandemic in 2009, the Ebola outbreak in 2014 and most recently the COVID-19 pandemic.
 

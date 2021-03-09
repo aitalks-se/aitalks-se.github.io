@@ -7,7 +7,7 @@ categories: aitalks
 zoom: https://ui.ungpd.com/Surveys/8f56180a-eab9-4330-9045-0ce70774e852
 youtube: https://youtu.be/p2lbO4PJBLI
 recording: https://www.youtube.com/watch?v=p2lbO4PJBLI
-image: https://bliss.eecs.berkeley.edu/photos/jordan.jpg
+image: assets/speakers/jordan.jpg
 blurb: >-
   Michael Irwin Jordan is a professor at the University of California, Berkeley and researcher in machine learning, statistics, and artificial intelligence. He is one of the leading figures in machine learning, and in 2016 Science reported him as the world's most influential computer scientist.
 ---

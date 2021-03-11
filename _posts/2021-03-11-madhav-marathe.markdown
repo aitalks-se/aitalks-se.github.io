@@ -7,6 +7,7 @@ datenotset: false
 categories: aitalks
 image: assets/speakers/madhav.jpeg
 zoom: https://ui.ungpd.com/Surveys/0649eac3-12ec-4d41-a640-d20a7d4e82f7
+recording: https://www.youtube.com/watch?v=DRAcK46KnVs
 blurb: >-
   Madhav Marathe is a Distinguished Professor in Biocomplexity, the division director of the Network Systems Science and Advanced Computing Division at the Biocomplexity Institute and Initiative, and a Professor in the Department of Computer Science at the University of Virginia (UVA).
 ---

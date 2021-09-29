@@ -2,7 +2,7 @@
 layout: post
 title:  "Tony Jebara"
 talk: "TBD"
-date:   2021-04-14 15:00:00 +0100
+date:   2021-12-31 15:00:00 +0100
 datenotset: true
 categories: aitalks
 image: assets/speakers/jebara.jpg

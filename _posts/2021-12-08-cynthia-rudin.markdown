@@ -2,7 +2,7 @@
 layout: post
 title:  "Cynthia Rudin"
 talk: "Interpretable Machine Learning"
-date:   2021-12-09 15:00:00 +0100
+date:   2021-12-08 15:00:00 +0100
 datenotset: false
 categories: aitalks
 image: assets/speakers/rudin.png

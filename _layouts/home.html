@@ -34,7 +34,7 @@ layout: default
         {%- for post in site.posts reversed -%}
           {% assign postStartDate = post.date | date: '%s' %}
           {% if postStartDate >= curDate %}
-            {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y, %H:%M (CET)" -%}
+            {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y, %H:%M (Swedish time)" -%}
             <li>
               <div class="person-list-image">
                 {% if post.image %}

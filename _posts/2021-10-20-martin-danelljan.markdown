@@ -7,6 +7,7 @@ datenotset: false
 categories: aitalks
 image: assets/speakers/danelljan.png
 zoom: https://ui.ungpd.com/Surveys/0649eac3-12ec-4d41-a640-d20a7d4e82f7
+recording: https://www.youtube.com/watch?v=UR2TlFCrYac
 blurb: >-
   Martin Danelljan is a senior researcher at ETH Zürich, Switzerland. He received his Ph.D. degree from Linköping University, Sweden in 2018. His Ph.D. thesis was awarded the biennial Best Nordic Thesis Prize at SCIA 2019. His main research interests are meta and online learning, deep probabilistic models, and conditional generative models.
 ---

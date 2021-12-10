@@ -7,6 +7,7 @@ datenotset: false
 categories: aitalks
 image: assets/speakers/rudin.png
 zoom: https://ui.ungpd.com/Surveys/0649eac3-12ec-4d41-a640-d20a7d4e82f7
+recording: https://www.youtube.com/watch?v=1hAiK_ZYl3I
 blurb: >-
   Cynthia Rudin is a professor of computer science, electrical and computer engineering, statistical science, and biostatistics & bioinformatics at Duke University, and directs the Interpretable Machine Learning Lab. She was recently  awarded the AAAI Squirrel AI Award or pioneering socially responsible AI.
 ---

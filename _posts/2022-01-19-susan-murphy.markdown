@@ -7,6 +7,7 @@ datenotset: false
 categories: aitalks
 image: assets/speakers/murphy.jpeg
 zoom: https://ui.ungpd.com/Surveys/0649eac3-12ec-4d41-a640-d20a7d4e82f7
+recording: https://www.youtube.com/watch?v=fBtqYa0uVbA
 blurb: >-
   Susan A. Murphy is the Mallinckrodt Professor of Statistics and of Computer Science, Radcliffe Alumnae Professor at the Radcliffe Institute. She leads the Statistical Reinforcement Learning Lab working on the development of data analytic algorithms and methods for informing sequential decision making in health.
 ---

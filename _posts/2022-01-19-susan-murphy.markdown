@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Susan Murphy"
-talk: "TBD"
+talk: "We used Reinforcement Learning; but did it work?​"
 date:   2022-01-19 15:00:00 +0100
 datenotset: false
 categories: aitalks

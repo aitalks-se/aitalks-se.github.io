@@ -2,7 +2,7 @@
 layout: post
 title:  "Pushmeet Kohli"
 talk: "Leveraging AI for Science"
-date:   2022-04-27 15:00:00 +0100
+date:   2022-04-27 15:00:00 +0000
 datenotset: false
 categories: aitalks
 image: assets/speakers/pushmeet.jpg

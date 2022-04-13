@@ -3,7 +3,7 @@ layout: post
 title:  "Susan Athey"
 talk: "TBD"
 date:   2022-05-10 16:00:00 +0100
-datenotset: true
+datenotset: false
 categories: aitalks
 image: assets/speakers/athey.jpeg
 blurb: >-

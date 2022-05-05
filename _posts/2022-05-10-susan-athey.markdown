@@ -11,9 +11,8 @@ blurb: >-
 ---
 
 
-## Leveraging AI for Science
+## (Title to be announced)
 
-### Abstract
 We are thrilled to host Susan Athey of Stanford University in AI Talks. Out of Prof. Athey’s vast contributions, her work at the intersection of econometrics and machine learning, in particular, has made her well-known in the AI community. For example, her research has resulted in new machine learning algorithms and theory for problems of optimizing and evaluating policies for intervention based on experimental or historical data. Through her many collaborations, this has impact on applications in health, market design, economics, social science and more.
 
 ### About the speaker

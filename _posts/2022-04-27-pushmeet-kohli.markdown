@@ -7,6 +7,7 @@ datenotset: false
 categories: aitalks
 image: assets/speakers/pushmeet.jpg
 zoom: https://ui.ungpd.com/Surveys/0649eac3-12ec-4d41-a640-d20a7d4e82f7
+recording: https://www.youtube.com/watch?v=LJUhsteUDiA
 blurb: >-
   Pushmeet Kohli leads the AI for Science team at Google DeepMind which aims to leverage AI and ML techniques to accelerate progress on important scientific challenges. The team conducts research in many areas of Science and has made contributions in structural biology (protein folding), quantum chemistry, genomics and pure mathematics.
 ---

@@ -11,9 +11,10 @@ blurb: >-
 ---
 
 
-## (Title to be announced)
+## AI for Social Impact: Applications and Opportunities
 
-We are thrilled to host Susan Athey of Stanford University in AI Talks. Out of Prof. Athey’s vast contributions, her work at the intersection of econometrics and machine learning, in particular, has made her well-known in the AI community. For example, her research has resulted in new machine learning algorithms and theory for problems of optimizing and evaluating policies for intervention based on experimental or historical data. Through her many collaborations, this has impact on applications in health, market design, economics, social science and more.
+### Abstract
+Artificial Intelligence holds great promise as a technology that can be used for social impact.  Yet, there are surprisingly few rigorous evaluations of how AI implementations improve outcomes, and AI implementations in social impact applications often face impediments such as poor performance in small datasets and uncertainty about the payoff from required engineering effort.  They also suffer from concerns about an inability to quantify and measure relevant outcomes in a timely way. In this talk, I will review several recent applications of artificial intelligence for impact, highlighting solutions to date and open challenges.
 
 ### About the speaker
 ![Susan Athey](/assets/speakers/athey.jpeg){:class="post-speaker-image"} Susan Athey is The Economics of Technology Professor at Stanford Graduate School of Business. She received her bachelor’s degree from Duke University and her PhD from Stanford, and she holds an honorary doctorate from Duke University. Her research focuses on the economics of digitization, marketplace design, and the intersection of econometrics and machine learning.  She has worked on several application areas, including timber auctions, internet search, online advertising, the news media, and the application of digital technology to social impact applications. In 2007, she received the John Bates Clark Medal, awarded to the American economist under the age of 40 who has made the greatest contribution to thought and knowledge.

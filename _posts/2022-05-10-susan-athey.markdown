@@ -7,6 +7,7 @@ datenotset: false
 categories: aitalks
 image: assets/speakers/athey.jpeg
 zoom: https://ui.ungpd.com/Surveys/0649eac3-12ec-4d41-a640-d20a7d4e82f7
+recording: https://www.youtube.com/watch?v=XGCqkQu3JEU
 blurb: >-
   Susan Athey is The Economics of Technology Professor at Stanford Graduate School of Business. Her research focuses on the economics of digitization, marketplace design, and the intersection of econometrics and machine learning.  
 ---

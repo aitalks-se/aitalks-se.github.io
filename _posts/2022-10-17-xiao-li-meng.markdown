@@ -5,6 +5,7 @@ talk: "A Multi-resolution Theory for Approximating Infinite-p-Zero-n: Transition
 date:   2022-10-17 14:00:00 +0200
 datenotset: false
 categories: aitalks
+location: HC2 / Zoom
 image: assets/speakers/meng.jpg
 blurb: >-
   Xiao-Li Meng is the Whipple V. N. Jones Professor of Statistics in the Faculty of Arts & Sciences at Harvard University.

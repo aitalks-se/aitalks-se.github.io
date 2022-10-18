@@ -7,6 +7,7 @@ datenotset: false
 categories: aitalks
 location: HC2 / Zoom
 image: assets/speakers/meng.jpg
+recording: https://www.youtube.com/watch?v=8Y6g7qTLH1U
 blurb: >-
   Xiao-Li Meng is the Whipple V. N. Jones Professor of Statistics in the Faculty of Arts & Sciences at Harvard University.
 

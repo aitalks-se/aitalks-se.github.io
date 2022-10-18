@@ -50,9 +50,18 @@ layout: default
                   {% if post.datenotset %}
                   {%- assign date_format = site.minima.date_format | default: "%Y" -%}
                   {% endif %}
-                  <h3>{{ post.date | date: date_format }}</h3>
+                    <h3>{{ post.date | date: date_format }}</h3>
                   {% if post.location %}
-                  <h3><b>Location:</b> {{ post.location | escape }}</h3>
+                    <h3><b>Location:</b> {{ post.location | escape }}</h3>
+                  {% endif %}
+                  {% if post.host %}
+                    {% if post.host-url %}
+                      <h3><b>Local host: </b><a href="{{ post.host-url | escape }}" target="_blank">
+                        {{ post.host | escape }}
+                      </a></h3>
+                    {% else %}
+                      <h3><b>Local host: </b>{{ post.host | escape }}</h3>
+                    {% endif %}
                   {% endif %}
                   {% if post.talk %}
                     {% unless post.talk == "TBD" %}
@@ -63,7 +72,7 @@ layout: default
                     <p>{{ post.blurb }}</p>
                   {% endif %}
                   {% if post.zoom %}
-                    <a href="{{ post.zoom }}">Register here</a>
+                    <a href="{{ post.zoom }}">Register for Zoom details here</a>
                     {% if post.youtube %}
                     | 
                     {% endif %}

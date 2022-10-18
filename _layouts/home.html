@@ -51,6 +51,9 @@ layout: default
                   {%- assign date_format = site.minima.date_format | default: "%Y" -%}
                   {% endif %}
                   <h3>{{ post.date | date: date_format }}</h3>
+                  {% if post.location %}
+                  <h3><b>Location:</b> {{ post.location | escape }}</h3>
+                  {% endif %}
                   {% if post.talk %}
                     {% unless post.talk == "TBD" %}
                     <h3><b>Title:</b> {{ post.talk | escape }}</h3>

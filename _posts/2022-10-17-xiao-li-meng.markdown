@@ -6,6 +6,7 @@ date:   2022-10-17 14:00:00 +0200
 datenotset: false
 categories: aitalks
 location: HC2 / Zoom
+host: Adel Daoud
 image: assets/speakers/meng.jpg
 recording: https://www.youtube.com/watch?v=8Y6g7qTLH1U
 blurb: >-

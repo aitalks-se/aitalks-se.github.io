@@ -19,11 +19,11 @@ layout: default
           {% if page.host %}
             <br/>
             {% if page.host-url %}
-              Local host:<a href="{{ page.host-url | escape }}" target="_blank">
+              Local host: <a href="{{ page.host-url | escape }}" target="_blank">
                 {{ page.host | escape }}
               </a>
             {% else %}
-              Local host:{{ page.host | escape }}
+              Local host: {{ page.host | escape }}
             {% endif %}
           {% endif %}
         </time>
